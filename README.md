@@ -1,7 +1,4 @@
 ###Olá! eu sou o Gustavo Eufrazio 👋
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/GustavoEufrazio)
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/GustavoEufrazio)
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://github.com/GustavoEufrazio)
 
 ![Gustavo Eufrazio GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoEufrazio&show_icons=true&theme=highcontrast&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoEufrazio&layout=compact&theme=highcontrast&locale=pt-br)
